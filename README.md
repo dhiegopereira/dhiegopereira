@@ -15,11 +15,7 @@
 
 - 🤝 I’m looking for help with **creating agile tools**
 
-- 👨‍💻 All of my projects are available at [http://meusite.com.br](http://meusite.com.br)
-
-- 📝 I regularly write articles on [programming](programming)
-
-- 💬 Ask me about **node, react, react native, flutter, next, spring boot, SQL, NoSQL, AWS e Google Cloud**
+- 💬 Ask me about **node, react, react native, next, spring boot, SQL, NoSQL, AWS, .Net Core e Google Cloud**
 
 - 📫 How to reach me **dhiegopereira.ti@gmail.com**
 
