@@ -8,8 +8,6 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/@dhiegopereira)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/dhiegopereira.ti)](https://www.instagram.com/dhiegopereira.ti/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiegopereira&label=Profile%20views&color=0e75b6&style=flat" alt="dhiegopereira" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiegopereira" alt="dhiegopereira" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiegopereira&show_icons=true&locale=en&layout=compact" alt="dhiegopereira" /></p>
