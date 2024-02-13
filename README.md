@@ -1,16 +1,12 @@
 ## Hi, I'm Diegon! :D
 
-### I'm a Senior Front-end Engineer, Full Stack Developer
+### Sobre mim
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/DiegoPereiraTI)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white)](https://www.youtube.com/@dhiegopereira)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/dhiegopereira.ti/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-a4c639?style=flat-square&labelColor=a4c639&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5588996781666&text=Estou%20entrando%20em%20contato,%20pois%20gostei%20muito%20do%20seu%20perfil.%20Podemos%20conversa?)
+Meu nome é **Diego Pereira** e sou um **Desenvolvedor Full Stack Sênior** com **12 anos de experiência na área de TI**. 
 
+Nos últimos **5 anos**, tive a oportunidade de atuar como **Professor**, compartilhando meu conhecimento e paixão pela tecnologia com outros aprendizes. Acredito firmemente que todo conhecimento é valioso e deve ser disseminado. Como diz uma frase inspiradora: `Uma pessoa é contratada pelas suas hard skills e é demitida pelas suas soft skills.` 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiegopereira" alt="dhiegopereira" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiegopereira&" alt="dhiegopereira" /></p>
+Portanto, estou sempre em busca de evolução, não apenas no que sei tecnicamente, mas também como indivíduo. Vamos continuar aprendendo e crescendo juntos! 🌟
 
 ---
 
@@ -70,13 +66,27 @@ UX/UI:
 
 ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=flat&logo=figma&logoColor=F24E1E)
 
+---
+
 ### Soft Skills
 
-O **xUnit** é uma excelente biblioteca de testes para .NET Core! No entanto, parece que o ícone não está aparecendo corretamente. Infelizmente, como sou um modelo de linguagem, não consigo exibir imagens diretamente aqui. Mas posso garantir que o **xUnit** é amplamente utilizado para escrever testes de unidade em projetos .NET.
+ - Comunicação
+ - Inteligência Emocional
+ - Adaptabilidade
+ - Trabalho em Equipe
+ - Gerenciamento de Projetos
+ - DevOps (Azure, AWS e Google Cloud)
+ - Metodologias Ágeis (Scrum)
+ - Criação de Documentação
 
-Se você deseja incluir o ícone do **xUnit** em sua documentação ou site, você pode usar o seguinte código Markdown:
+ --- 
+
+ [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/DiegoPereiraTI)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white)](https://www.youtube.com/@dhiegopereira)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/dhiegopereira.ti/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-a4c639?style=flat-square&labelColor=a4c639&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5588996781666&text=Estou%20entrando%20em%20contato,%20pois%20gostei%20muito%20do%20seu%20perfil.%20Podemos%20conversa?)
 
 
-![xUnit](https://img.shields.io/badge/-xUnit-FFFFFF?style=flat&logo=xunit&logoColor=512BD4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiegopereira" alt="dhiegopereira" /></a> </p>
 
-Isso criará um ícone do **xUnit** com a cor e estilo apropriados. Lembre-se de verificar se o URL da imagem está correto e acessível. Boa sorte com seus testes e desenvolvimento! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiegopereira&" alt="dhiegopereira" /></p>
