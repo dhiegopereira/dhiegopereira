@@ -4,7 +4,9 @@
 
 Sou um **Desenvolvedor Full Stack Sênior** com **12 anos de experiência na área de TI**. 
 
-Nos últimos **5 anos**, tive a oportunidade de atuar como **Professor**, compartilhando meu conhecimento e paixão pela tecnologia com outros aprendizes. Acredito firmemente que todo conhecimento é valioso e deve ser disseminado. Como diz uma frase inspiradora: `Uma pessoa é contratada pelas suas hard skills e é demitida pelas suas soft skills.` 
+Nos últimos **5 anos**, tive a oportunidade de atuar como **Professor**, compartilhando meu conhecimento e paixão pela tecnologia com outros aprendizes. Acredito firmemente que todo conhecimento é valioso e deve ser disseminado. 
+
+Como diz uma frase inspiradora: `Uma pessoa é contratada pelas suas hard skills e é demitida pelas suas soft skills.` 
 
 Portanto, estou sempre em busca de evolução, não apenas no que sei tecnicamente, mas também como indivíduo. Vamos continuar aprendendo e crescendo juntos! 🌟
 
@@ -81,10 +83,10 @@ UX/UI:
 
  --- 
 
- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/DiegoPereiraTI)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white)](https://www.youtube.com/@dhiegopereira)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/dhiegopereira.ti/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-a4c639?style=flat-square&labelColor=a4c639&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5588996781666&text=Estou%20entrando%20em%20contato,%20pois%20gostei%20muito%20do%20seu%20perfil.%20Podemos%20conversa?)
+ [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/DiegoPereiraTI)
+[![Youtube](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white)](https://www.youtube.com/@dhiegopereira)
+[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/dhiegopereira.ti/)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-a4c639?style=flat-square&labelColor=a4c639&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5588996781666&text=Estou%20entrando%20em%20contato,%20pois%20gostei%20muito%20do%20seu%20perfil.%20Podemos%20conversa?)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiegopereira" alt="dhiegopereira" /></a> </p>
