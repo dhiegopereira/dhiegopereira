@@ -1,8 +1,8 @@
-## Hi, I'm Diegon! :D
+## Olá, Eu sou o Diego! :D
 
 ### Sobre mim
 
-Meu nome é **Diego Pereira** e sou um **Desenvolvedor Full Stack Sênior** com **12 anos de experiência na área de TI**. 
+Sou um **Desenvolvedor Full Stack Sênior** com **12 anos de experiência na área de TI**. 
 
 Nos últimos **5 anos**, tive a oportunidade de atuar como **Professor**, compartilhando meu conhecimento e paixão pela tecnologia com outros aprendizes. Acredito firmemente que todo conhecimento é valioso e deve ser disseminado. Como diz uma frase inspiradora: `Uma pessoa é contratada pelas suas hard skills e é demitida pelas suas soft skills.` 
 
