@@ -2,9 +2,20 @@
 
 ### Sobre mim
 
-Sou um **Desenvolvedor Full Stack Sênior** com **10 anos de experiência na área de TI**. 
+Desenvolvedor Full Stack Sênior com mais de 10 anos de experiência em TI, atuando em diversas funções como Professor de Programação, Líder Técnico e Engenheiro de Software.
 
-Nos últimos **5 anos**, tive a oportunidade de atuar como **Professor**, compartilhando meu conhecimento e paixão pela tecnologia com outros aprendizes. Acredito firmemente que todo conhecimento é valioso e deve ser disseminado. 
+Possuo conhecimento em arquiteturas monolíticas e modernas, incluindo DDD e Clean Architecture. 
+
+Tenho habilidades em .NET Core, Spring Boot, React com MVVM, desenvolvimento de APIs, Microservices. da criação de extensões para Google Chrome e VS Code. 
+
+Possuo experiência em Inteligência Artificial, incluindo GPT e chatbots para Discord, WhatsApp e Telegram. 
+
+Tenho experiência em liderança de equipes utilizando metodologias ágeis com Jira e participei de dois projetos de migração de arquitetura monolítica para arquiteturas mais modernas. 
+
+Possuo conhecimento aprofundado em banco de dados, onde participei de uma equipe de integração usando Tableau e Power BI.
+
+Tenho experiência em DevOps, incluindo a criação de VMs, escrita de pipelines para testes e deploy automatizados usando Docker Hub.
+
 
 Como diz uma frase inspiradora: `Uma pessoa é contratada pelas suas hard skills e é demitida pelas suas soft skills.` 
 
