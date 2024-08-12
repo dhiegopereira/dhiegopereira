@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Sou um **Desenvolvedor Full Stack Sênior** com **12 anos de experiência na área de TI**. 
+Sou um **Desenvolvedor Full Stack Sênior** com **10 anos de experiência na área de TI**. 
 
 Nos últimos **5 anos**, tive a oportunidade de atuar como **Professor**, compartilhando meu conhecimento e paixão pela tecnologia com outros aprendizes. Acredito firmemente que todo conhecimento é valioso e deve ser disseminado. 
 
